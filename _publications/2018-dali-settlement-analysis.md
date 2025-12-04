@@ -5,7 +5,7 @@ category: thesis
 excerpt: 'Master thesis analyzing the spatial patterns of settlements and characteristics of residential spaces in the Dali region, combining traditional architecture with spatial analysis methods.'
 date: 2018-06-18
 venue: 'Sichuan University Master Thesis'
-url: 'https://www.researchgate.net/publication/395346447'
+external_url: 'https://www.researchgate.net/publication/395346447'
 citation: '<b>Wang, D.</b> (2018). &quot;Analysis of Settlement Spatial Patterns and Residential Space Characteristics in the Dali Region.&quot; <i>Master&apos;s Thesis, Sichuan University</i>.'
 ---
 

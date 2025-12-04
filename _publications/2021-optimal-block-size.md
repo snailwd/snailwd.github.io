@@ -5,7 +5,7 @@ category: journals
 excerpt: 'This study explores the relationship between urban block size and vitality using multiple indicators, providing insights for urban planning and design.'
 date: 2021-05-01
 venue: 'Journal of Urban Planning and Development'
-url: 'https://www.researchgate.net/publication/351616961'
+external_url: 'https://www.researchgate.net/publication/351616961'
 citation: 'Gan, X., Huang, L., Wang, H., Mou, Y., <b>Wang, D.</b>, & Hu, A. (2021). &quot;Optimal Block Size for Improving Urban Vitality: An Exploratory Analysis with Multiple Vitality Indicators.&quot; <i>Journal of Urban Planning and Development</i>, 147(3).'
 ---
 
