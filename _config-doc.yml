@@ -1,0 +1,220 @@
+# ============================================================================
+# Minimal Mistakes 主题配置 
+# 已清除所有示例数据，开箱即用
+# ============================================================================
+
+# 主题选择（可选：default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise）
+minimal_mistakes_skin: "default"
+
+# 站点基础信息
+locale: "en-US"
+title: "Di Wang / 王荻"
+title_separator: "-"
+subtitle: "Architecture, Urbanism, Data Science"
+name: &name "Di Wang"
+description: &description "A Wanderer of the World Wide Web and Cities."
+url: "https://snailwd.github.io"
+baseurl: ""  # 用户主页必须留空
+repository: "snailwd/snailwd.github.io"
+teaser:  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo:  # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title:  # 留空则显示站点标题，use " " for no title
+
+# 性能与功能开关
+words_per_minute: 200
+enable_copy_code_button: true
+comments:
+  provider: "false"  # 关闭评论（可选：disqus, giscus 等）
+search: true  # 启用搜索
+search_full_content: true
+search_provider: lunr  # 本地搜索（无需 API）
+
+# SEO 验证（可选）
+google_site_verification:  # 填入你的验证 ID 或删除
+bing_site_verification:    # 同上
+baidu_site_verification:   # 同上
+
+# Open Graph 社交分享
+og_image: "/assets/images/citylayer.png"  # 建议用你的头像或代表作
+og_description: *description
+# For specifying social profiles, used in _includes/seo.html
+# - https://developers.google.com/structured-data/customize/social-profiles
+
+# 社交媒体链接（按需填写，不需要的删除整行）
+twitter:
+  username:  # 你的 X/Twitter 用户名（无则留空）
+# facebook:
+#   username:  # Facebook 用户名
+#   app_id:    # Facebook App ID（无则留空）
+social:
+  type: Person
+  name: *name
+  links:
+    - "https://github.com/snailwd"
+    - "https://www.researchgate.net/profile/Di-Wang-104"
+
+# Analytics
+analytics:
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-DNLSB2LXX6" # Replace this with your ID, or delete
+    anonymize_ip         : true
+
+# 站点作者信息（侧边栏显示）
+author:
+  name: *name # *name is a YAML reference pointing to the &anchor earlier
+  avatar: "/assets/images/avatar-ds.jpeg"  # 你的头像路径
+  bio: "A *Wanderer* of the World Wide Web and Cities"
+  location: "Chengdu, China"
+  email: "snailwd@foxmail.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:snailwd@foxmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/snailwd"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Di-Wang-104"
+
+# 站点页脚链接（按需修改）
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/snailwd"
+  since: "2018"  # 你的站点起始年份
+
+# 文件包含/排除配置（通常无需修改）
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - tmp
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Markdown 处理
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: "\n\n"
+incremental: false
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
+# 合集配置（保留你需要的，删除不需要的）
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  # 以下示例合集可删除
+  # recipes:
+  #   output: true
+  #   permalink: /:collection/:path/
+
+# 默认 front matter（通常无需修改）
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Sass/SCSS 配置（无需修改）
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# 输出配置
+permalink: /:categories/:title/
+timezone: Asia/Beijing  # 修正为你的时区
+
+# 插件（GitHub Pages 白名单）
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
+
+# 归档页面（标签/分类）
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# HTML 压缩（生产环境优化）
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
