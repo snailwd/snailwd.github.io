@@ -33,3 +33,6 @@ _site
 
 # users
 _config-example.yml
+_config-doc.yml
+
+

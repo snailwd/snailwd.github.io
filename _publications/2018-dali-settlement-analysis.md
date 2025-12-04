@@ -1,6 +1,6 @@
 ---
 title: "Analysis of Settlement Spatial Patterns and Residential Space Characteristics in the Dali Region"
-image: "/assets/images/cover.jpg"
+image: "/assets/images/Dali Comparative Study.jpg"
 category: thesis
 excerpt: 'Master thesis analyzing the spatial patterns of settlements and characteristics of residential spaces in the Dali region, combining traditional architecture with spatial analysis methods.'
 date: 2018-06-18

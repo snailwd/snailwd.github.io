@@ -207,10 +207,10 @@ kramdown:
 collections:
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:name/
   projects:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:name/
 
 
 # Sass/SCSS
