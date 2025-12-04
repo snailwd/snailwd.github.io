@@ -1,11 +1,7 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-  <meta http-equiv="refresh" content="0; url=/about/">
-  <link rel="canonical" href="/about/">
-  <title>Di Wang - About</title>
-</head>
-<body>
-  Redirecting to <a href="/about/">About Me</a>...
-</body>
-</html>
+---
+layout: single
+author_profile: true
+---
+
+{% capture about_content %}{% include_relative _pages/about.md %}{% endcapture %}
+{{ about_content | markdownify }}
