@@ -118,7 +118,7 @@ analytics:
 author:
   name             : *name 
   avatar           : "/assets/images/avatar-ds.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : " 🔭 🌏 A Wanderer of the World Wide Web and Cities 🌅 🚵‍♂️ " 
+  bio              : " 🔭 🌏 🌅 🚵‍♂️ " 
   
   location         : "Chengdu, China"
   email            : "snailwd@foxmail.com"
