@@ -1,6 +1,6 @@
 ---
 title: "Mapping 11th Street"
-main_image: "/assets/images/images/11th street.jpg"
+main_image: "/assets/images/11th street.jpg"
 # repo_url: "https://github.com/snailwd/demo-repo"
 excerpt: "International Mapping Studio of 11th Street in Chengdu"
 ---

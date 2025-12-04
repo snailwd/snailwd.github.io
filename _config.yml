@@ -207,8 +207,8 @@ kramdown:
 # 合集配置（保留你需要的，删除不需要的）
 collections:
   publications:
-    output: true
-    permalink: /:collection/:name/
+    output: false
+    # permalink: /:collection/:name/
   projects:
     output: true
     permalink: /:collection/:name/
