@@ -2,7 +2,7 @@
 title: "Analysis of Settlement Spatial Patterns and Residential Space Characteristics in the Dali Region"
 image: "/assets/images/Dali Comparative Study.jpg"
 category: thesis
-excerpt: 'Master thesis analyzing the spatial patterns of settlements and characteristics of residential spaces in the Dali region, combining traditional architecture with spatial analysis methods.'
+excerpt: 'Master thesis analyzing the spatial patterns of settlements and characteristics of residential spaces in the Dali region, combining traditional architecture with spatial analysis methods.The research combines field surveys, spatial analysis, and architectural documentation to understand the relationship between settlement patterns and residential space organization in this historically and culturally significant area and contributes to the understanding of traditional Chinese settlement morphology and provides insights for contemporary rural planning and heritage preservation efforts.'
 date: 2018-06-18
 venue: 'Sichuan University Master Thesis'
 external_url: 'https://www.researchgate.net/publication/395346447'

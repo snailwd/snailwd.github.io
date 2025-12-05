@@ -1,0 +1,16 @@
+
+// CV 按钮专用样式
+.btn--cv {
+  @extend .btn;  // 继承所有 .btn 基础样式（padding, border-radius, font-weight 等）
+
+  // 覆盖你需要的特定样式
+  border: 2px solid #004c45a0;
+  background: transparent;
+  color: #01272378;
+  text-transform: uppercase;
+
+  &:hover {
+    background: #004c45a0;
+    color: #ffffff;
+  }
+}
