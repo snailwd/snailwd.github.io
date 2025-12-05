@@ -1,10 +1,10 @@
 ---
-title: "Graduation Fieldwork of Bachelor's Degree"
-date: 2015-07-01 
+title: "Research and Fieldwork based on GIS"
+date: 2015-09-01 
 layout: project
-main_image: "/assets/images/Graduation-Fieldwork.jpeg"
+main_image: "/assets/images/fujii.jpg"
 # repo_url: "https://github.com/snailwd/demo-repo"
-excerpt: "Postgraduate student in the Fujii-Hu Lab"
+excerpt: "Research projects based on the Geographic Information System (GIS) and spatial analysis"
 ---
 
 

@@ -3,7 +3,14 @@ layout: single
 ---
 
 {% if page.main_image %}
-  {% include figure image_path=page.main_image alt=page.title caption=page.excerpt %}
+  {% assign image_ext = page.main_image | split: "." | last | downcase %}
+  {% if image_ext == "gif" %}
+    <!-- GIF：原生 <img> 确保自动播放 -->
+    <img src="{{ page.main_image | relative_url }}" alt="{{ page.title }}" style="width: 100%; max-width: 100%; border-radius: 4px; margin: 20px 0;">
+  {% else %}
+    <!-- 普通图片：使用主题 figure -->
+    {% include figure image_path=page.main_image alt=page.title caption=page.excerpt %}
+  {% endif %}
 {% endif %}
 
 {{ content }}
