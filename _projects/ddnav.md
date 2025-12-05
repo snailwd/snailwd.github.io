@@ -10,4 +10,4 @@ excerpt: "Urban reseach, information visualization and something interesting"
 
 💡 |
 
-ddnav.
+- Urban reseach, information visualization and something interesting.
