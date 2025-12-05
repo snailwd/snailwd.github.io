@@ -57,11 +57,16 @@ layout: default
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
         {% include page__taxonomy.html %}
-        {% include page__date.html %}
+        <!-- {% include page__date.html %} -->
       </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
+      {% if page.collection == 'projects' %}
+        <div style="text-align: center; margin: 40px 0 20px;">
+          <a href="/projects/" class="btn">&larr; Back to Projects</a>
+        </div>
+      {% endif %}
       {% include post_pagination.html %}
     </div>
 
