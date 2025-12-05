@@ -121,7 +121,7 @@ author:
   bio              : " 🔭 🌏 🌅 🚵‍♂️ " 
   
   location         : "Chengdu, China"
-  email            : "snailwd@foxmail.com"
+  # email            : "snailwd@foxmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

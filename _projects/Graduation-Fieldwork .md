@@ -4,7 +4,7 @@ date: 2015-07-01
 layout: project
 main_image: "/assets/images/Graduation-Fieldwork.jpeg"
 # repo_url: "https://github.com/snailwd/demo-repo"
-excerpt: "International Mapping Studio of 11th Street in Chengdu"
+excerpt: "Graduation fieldwork in Sichuan, Guizhou and Guangxi Provinces"
 ---
 
 
