@@ -318,3 +318,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  
+  # 添加这段：为 projects 集合设置默认布局
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
