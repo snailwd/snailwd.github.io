@@ -7,8 +7,9 @@ permalink: /
 
 ## 💡 About Me
 
-I hold both B.Arch. and M.Arch. from Sichuan University, China.  
-Currently pursuing PhD opportunities in Urban Informatics, my research interest focus on leveraging spatial analysis, interactive visualization, and computational methods to understand urban complexity and inform evidence-based policy decisions. With a background in architecture and data product management, I am passionate about translating large-scale urban data into actionable insights for sustainable and healthier cities.
+I hold both a B.Arch. and M.Arch. from Sichuan University, China, and have worked as a product manager for [AI-driven architectural design tools](https://snailwd.github.io/projects/pinlan/) and [urban big data platforms](https://snailwd.github.io/projects/xyx/). 
+
+Currently I am exploring PhD opportunities in Urban Informatics, where my research focuses on using spatial analysis, interactive visualization, and computational techniques to unravel urban complexity and support evidence-based policymaking. With a background in architecture and data product management, I am deeply interested in translating large-scale urban data into actionable insights to promote sustainable and healthier cities.
 
 [Resume](/assets/pdf/DiWang_CV_202512.pdf){: .btn .btn--cv}
 

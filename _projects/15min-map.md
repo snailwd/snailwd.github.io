@@ -10,4 +10,4 @@ excerpt: "From Noodle Shops to Neighborhood Accessibility"
 
 💡 |
 
-This project transforms the "15-minute city" planning buzzword into a lived-experience tool: visualize how many essential services—wet markets, convenience stores, cafés—are truly reachable within your customizable travel-time bubble (walking, cycling, or transit). Built with AMap API; POI loading may pause if daily quota exhausts.
+This project transforms the "15-minute city" planning buzzword into a lived-experience tool: visualize how many essential services—wet markets, convenience stores, cafés—are truly reachable within your customizable travel-time bubble (walking, cycling, or transit). 
