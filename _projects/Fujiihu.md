@@ -10,6 +10,8 @@ excerpt: "Research projects based on the Geographic Information System (GIS) and
 
 💡 |
 
+![Dali Comparative Study](/assets/images/Dali Comparative Study.jpg)
+
 *Participated in the National and Provincial Resarch Projects*
 
 - “ Research on the Construction of Geographic Information System on Historical and Cultural Village along Ancient Tea and Horse Road ”

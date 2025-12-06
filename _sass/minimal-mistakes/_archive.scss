@@ -429,3 +429,45 @@
 		display: inline-block;
 	}
 }
+
+/* ==========================================================================
+   PROJECT PAGE CUSTOM STYLES
+   ========================================================================== */
+
+// 电脑端：$medium (768px) 及以上断点
+@include breakpoint($medium) {
+  .layout--archive {
+    .archive__item {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      gap: 2em; // 文字和图片间距
+    }
+
+    .archive__item-body {
+      flex: 1; // 文字部分占据剩余空间
+      min-width: 0; // 防止 flex item 溢出
+    }
+
+    .archive__item-teaser {
+      width: 200px; // 缩略图固定宽度
+      flex-shrink: 0; // 防止被压缩
+      margin: 0; // 移除默认 margin
+
+      img {
+        width: 100%; // 图片填满容器
+        height: auto;
+        border-radius: $border-radius;
+      }
+    }
+  }
+}
+
+// 超大屏幕可选：稍微增大缩略图
+@include breakpoint($large) {
+  .layout--archive {
+    .archive__item-teaser {
+      width: 250px;
+    }
+  }
+}

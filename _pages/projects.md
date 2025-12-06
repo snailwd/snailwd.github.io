@@ -22,7 +22,9 @@ author_profile: true
     </div>
     {% if proj.main_image %}
       <div class="archive__item-teaser">
-        <img src="{{ proj.main_image | relative_url }}" alt="{{ proj.title }}">
+        <img src="{{ proj.main_image | relative_url }}" 
+        alt="{{ proj.title }}"
+        loading="lazy">
       </div>
     {% endif %}
   </div>
