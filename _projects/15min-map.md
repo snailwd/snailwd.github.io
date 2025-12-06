@@ -1,5 +1,5 @@
 ---
-title: "15-minute radius livelihood service circles Mapper"
+title: "15-minute Radius Livelihood Service Circles Mapper"
 date: 2025-10-01 
 layout: project
 main_image: "/assets/images/15minmap.jpg"

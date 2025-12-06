@@ -7,7 +7,7 @@ video: "/assets/videos/11th-street.mp4"
 video_poster: "/assets/images/11th-thumb.png"
 video_caption: "Soundscape of 11th Street"
 # repo_url: "https://github.com/snailwd/demo-repo"
-excerpt: "International Mapping Studio of 11th Street in Chengdu"
+excerpt: "International Mapping Studio of the 11th Street in Chengdu"
 ---
 
 

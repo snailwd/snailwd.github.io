@@ -10,9 +10,9 @@ excerpt: "Data Product Manager / Shanghai The Rising Lab"
 
 💡 |
 
-**Data Product Manager** | **Shanghai The Rising Lab**
+**Data Product Manager / Shanghai The Rising Lab**
 
-**The Rising Lab** is dedicated to exploring the future of cities through the integration of urban commercial and internet data. The lab consolidates a **cross-disciplinary database of over 1 billion** records, covering key urban areas such as commercial spaces, industrial sectors, residential infrastructure, population structure, transportation networks, and macroeconomic indicators. The **ZhiCheng Data Platform** provides multi-domain urban commercial data, smart analysis models, and strategic insights to local governments, city planners, automotive, real estate, retail, and smart city sectors. 
+**The Rising Lab** is dedicated to exploring the future of cities through the integration of urban commercial and internet data. The lab consolidates a **cross-disciplinary database of over 1 billion** records, covering key urban areas such as commercial spaces, industrial sectors, residential infrastructure, population structure, transportation networks, and macroeconomic indicators. The **Zhicheng Data Platform** provides multi-domain urban commercial data, smart analysis models, and strategic insights to local governments, city planners, automotive, real estate, retail, and smart city sectors. 
 
 At **The Rising Lab**, I played a pivotal role in the development of the **API open platform** for the urban big data product, and worked alongside the business operations team to drive user growth and ensure product relevance.
 
