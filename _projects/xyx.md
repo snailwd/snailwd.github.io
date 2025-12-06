@@ -10,10 +10,27 @@ excerpt: "Data Product Manager / Shanghai The Rising Lab"
 
 💡 |
 
-*- Led development of API openplatform of urban big data product and collaborated with business operations team for user growth, analyzed business value and user needs, maintained data dictionary*
+**Data Product Manager** | **Shanghai The Rising Lab**
 
-- *Analyzed business and user value.* Established "User Analysis Report" by analyzing user attributes and data on browsing/registration/retention/revenue/repurchase. Identified pain points and created user personas based on the AARRR model. Assisted sales team in developing different industry Key Account (KA) acquisition strategies accordingly
+**The Rising Lab** is dedicated to exploring the future of cities through the integration of urban commercial and internet data. The lab consolidates a **cross-disciplinary database of over 1 billion** records, covering key urban areas such as commercial spaces, industrial sectors, residential infrastructure, population structure, transportation networks, and macroeconomic indicators. The **ZhiCheng Data Platform** provides multi-domain urban commercial data, smart analysis models, and strategic insights to local governments, city planners, automotive, real estate, retail, and smart city sectors. 
 
-- *Planned roadmap and released product iteration.* Improved the content upload-audit-distribution chain and collaborated with UED team to upgrade platform-wide visualization and interaction by streamlining product requirements synthesizing from user, SEO, and operation feedback. Standardized indicators and data of open data platform. Integrated with Huawei Cloud and Shanghai Data Exchange to launch API products
+At **The Rising Lab**, I played a pivotal role in the development of the **API open platform** for the urban big data product, and worked alongside the business operations team to drive user growth and ensure product relevance.
 
-- *Improved user experience.* Achieved user growth collaborating with sales team. Lauched event tracking, established  visual operation index monitoring system from user/platform perspective to inform product direction. Delivered 23 optimization features reducing the user bounce rate from 89.58% to 44.64%, and increasing PV/UV from 2.2 to 4.8. Released information collection feature for enterprise, updated product promotional materials which contributed to 238 business clues. Achieved 500% increase of daily visitors and 1000+ new registered users by iterating WeChat mini-program at publicizing node
+Below are the key contributions I made:
+
+- **Led development of the urban big data API open platform**  
+  Collaborated closely with the business operations team to promote user growth, analyzed business value, maintained a comprehensive data dictionary, and ensured alignment with industry needs.
+
+- **Analyzed business and user value**  
+  Conducted in-depth analysis of user attributes and data metrics such as browsing, registration, retention, revenue, and repurchase rates. Created **"User Analysis Reports"** and developed user personas using the **AARRR model**. Collaborated with the sales team to tailor Key Account (KA) acquisition strategies for various industries.
+
+- **Planned product roadmap and released iterations**  
+  Improved the content upload-audit-distribution workflow and worked with the UED team to enhance platform visualization and interaction. Streamlined product requirements and integrated feedback from users, SEO, and operations. Standardized platform data and indicators, and successfully launched API products integrated with **Huawei Cloud** and **Shanghai Data Exchange**.
+
+- **Enhanced user experience and product engagement**  
+  Drove user growth by launching key features like event tracking and visual operation index monitoring. Delivered **23 optimization features**, reducing the user bounce rate from **89.58%** to **44.64%**, and increasing **PV/UV** from **2.2** to **4.8**. Released an information collection feature and updated product promotional materials, resulting in **238 business leads**. Achieved a **500% increase** in daily visitors and **1000+ new registered users** by iterating the WeChat mini-program during key publicizing stages.
+
+---
+
+This role allowed me to merge my skills in **big data product management**, **user experience optimization**, and **API platform development**, contributing to significant user engagement and growth for the platform at **The Rising Lab**.
+
