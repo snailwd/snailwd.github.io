@@ -2,7 +2,7 @@
 title: "AI + Architecture SAAS Platform"
 date: 2021-06-01 
 layout: project
-main_image: "/assets/images/dd-card.jpg"
+main_image: "/assets/images/pinlandt.gif"
 repo_url: "https://www.pinlandata.com/jztm"
 excerpt: "Product Manager / Shanghai Pinlan Data Technology Co., Ltd."
 
