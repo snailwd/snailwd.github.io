@@ -16,16 +16,14 @@ excerpt: "Research projects based on the Geographic Information System (GIS) and
 
 - “ A Comparative Study on the Spatial Schema and Cultural Meaning of Historic and Cultural Villages and Towns in Tibet ”
     - Funding: National Social Science Foundation of China
-    - 
-        · Conducted architectural surveys and mapping, produced video documentation
-        · Established and maintained GIS database
-        · Prepared research presentations and reports
+    - Conducted architectural surveys and mapping, produced video documentation
+    - Established and maintained GIS database
+    - Prepared research presentations and reports
 
 - “ Research on the Construction of Geographic Information System on Historical and Cultural Village along Ancient Tea and Horse Road ”
     - Funding: Sichuan Provincial Social Science Planning Project
-    - 
-        · Reviewed literature and research materials, constructed research plan and routes selection
-        · Conducted fieldwork, questionnaire interviews, and GPS data collection
-        · Prepared research reports, created village diagrams, and conducted data analysis.
-        · Established village GIS database
+    - Reviewed literature and research materials, constructed research plan and routes selection
+    - Conducted fieldwork, questionnaire interviews, and GPS data collection
+    - Prepared research reports, created village diagrams, and conducted data analysis.
+    - Established village GIS database
 
